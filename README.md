@@ -64,7 +64,7 @@ set "RAR_DIR=C:\Tools\rar"
 set "CFV_EXE=C:\Tools\cfv-1.18.3\cfv.exe"
 ```
 
-Required tools
+Variables of required tools
 
 |**Variable**|**Description**|
 | ---------- | ------------------------------------- |
