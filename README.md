@@ -209,7 +209,7 @@ At the end of execution, the tool prints:
 
 ---
 
-## 🪟 Windows PATH Integration (Recommended)
+## 🖥️ Windows PATH Integration (Recommended)
 
 Using Windows PATH integration is strongly recommended because the script must be launched directly from reconstruction directories.
 
