@@ -66,10 +66,11 @@ set "CFV_EXE=C:\Tools\cfv-1.18.3\cfv.exe"
 
 Required tools
 
-**Variable        Description**
-PYRESCENE_DIR   Directory containing srr.exe and srs.exe
-RAR_DIR         Directory containing the RAR executables required for compressed archive reconstruction
-CFV_EXE         Full path to cfv.exe
+|**Variable**|**Description**|
+| ---------- | ------------------------------------- |
+|PYRESCENE_DIR|Directory containing srr.exe and srs.exe|
+|RAR_DIR|Directory containing the RAR executables required for compressed archive reconstruction|
+|CFV_EXE|Full path to cfv.exe|
 
 The script will NOT function correctly until these paths are configured.
 
