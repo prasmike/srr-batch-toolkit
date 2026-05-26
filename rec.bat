@@ -2,6 +2,7 @@
 setlocal ENABLEDELAYEDEXPANSION
 
 rem ============================================================
+rem  pyReScene SRR Batch Toolkit v0.9.0
 rem  rec.bat - SRR reconstruction + optional SRS rebuild
 rem ============================================================
 
